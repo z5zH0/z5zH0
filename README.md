@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=300&section=header&text=Welcome%20to%20Yejin's%20code%20warehouse&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=300&section=header&text=Welcome%20to%20Yejin's%20code%20warehouse&fontSize=45&&fontAlignY=40)
 ## 👩‍💻 Yejin Kim
 Self-motivated, enterprising Software Development student with 3+ years of experience in Android development, web front-end development. Endeavoring to be a developer which makes our world better.<br>
 
