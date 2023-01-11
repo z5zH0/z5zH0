@@ -1,4 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=300&section=header&text=Welcome%20to%20Yejin's%20code%20warehouse&fontSize=45)
+## 👩‍💻 Yejin Kim
+Self-motivated, enterprising Software Development student with 3+ years of experience in Android development, web front-end development. Endeavoring to be a developer which makes our world better.<br>
+
+### 😎 About me
+
+- BSc Software & AI at Hankuk University of Foreign Studies (2018 - current)
+- BSc Spanish Translation and Interpretation at Hankuk University of Foreign Studies (2018 - current)
 
 <!--
 **z5zH0/z5zh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
