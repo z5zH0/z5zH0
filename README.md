@@ -11,7 +11,9 @@ Self-motivated, enterprising Software Development student with 4+ years of exper
 
 ### 🗂 Projects
 <a href="">Exam helper - School Project</a>
+
 <a href="">Assistify - Prompter Day Seoul 2023</a>
+
 <a href="https://github.com/DSCHUFS/Solution-Challenge-2022-GrowGrow">Grow Grow - Google Solution Challenge</a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
