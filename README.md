@@ -10,5 +10,8 @@ Self-motivated, enterprising Software Development student with 4+ years of exper
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
 ### 🗂 Projects
+<a href="">Exam helper - School Project</a>
+<a href="">Assistify - Prompter Day Seoul 2023</a>
+<a href="https://github.com/DSCHUFS/Solution-Challenge-2022-GrowGrow">Grow Grow - Google Solution Challenge</a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
