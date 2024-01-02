@@ -12,7 +12,7 @@ Self-motivated, enterprising Software Development student with 4+ years of exper
 ### 🗂 Projects
 <a href="https://github.com/park-hyunbin/Exam_Helper">Exam helper - School Project</a>
 
-<a href="https://github.com/z5zH0/PrompterDay2023">Assistify - Prompter Day Seoul 2023</a>
+<a href="https://github.com/whwogus947/PrompterDay2023">Assistify - Prompter Day Seoul 2023</a>
 
 <a href="https://github.com/DSCHUFS/Solution-Challenge-2022-GrowGrow">Grow Grow - Google Solution Challenge</a>
 
