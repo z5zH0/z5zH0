@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&section=header&fontSize=45&&fontAlignY=40)
 ## 👩‍💻 Yejin Kim
-Self-motivated, enterprising Software Development student with 4+ years of experience in Android Development, Web Front-end Development and Machine Learning, striving to be a developer which makes our world better.<br>
+Self-motivated, enterprising Software Development student with 4+ years of experience in Web Back-end and Android Development, striving to be a developer which makes our world better.<br>
 
 <a href="mailto:kimyejin0044@gmail.com"><img src="https://img.shields.io/badge/kimyejin0044@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://archive-my-code.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square"></a>
 
